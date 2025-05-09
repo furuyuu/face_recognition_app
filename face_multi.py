@@ -21,11 +21,6 @@ import glob
 import config
 threshold = config.threshold
 
-print("opencv-contrib-python==" + opencv-contrib-python.__version__)
-print("cmake==" + cmake.__version__)
-print("dlib==" + dlib.__version__)
-print("face_recognition==" + face_recognition.__version__)
-
 """## 顔情報の初期化"""
 
 face_locations = []
